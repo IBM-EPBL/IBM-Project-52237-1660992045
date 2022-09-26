@@ -1,0 +1,21 @@
+Team Leader
+
+NAME : Sasmitha.B
+
+ROLLNO : 410619104032
+
+EMAIL : sasusasu1942001@gmail.com
+
+MOBILE NUMBER : 9360861033
+
+GENDER : FEMALE
+
+DATE OF BIRTH : 19/04/2001
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Computer Science Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING
