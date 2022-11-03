@@ -10,7 +10,7 @@ GENDER : FEMALE
 
 DATE OF BIRTH : 15-12-2001
 
-DEGREE : Bachelor of Engineering
+DEGREE : Bachelor of Engineering 
 
 BRANCH : Computer Science Engineering
 
