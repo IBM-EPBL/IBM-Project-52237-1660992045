@@ -12,8 +12,8 @@ DATE OF BIRTH : 13-06-2002
 
 DEGREE : Bachelor of Engineering 
 
-BRANCH : Computer Science Engineering    
+BRANCH : Computer Science Engineering     
 
-YEAR OF PASSING : 2023  
+YEAR OF PASSING : 2023   
 
-COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING     
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING      
