@@ -2,7 +2,7 @@ NAME :M.YASMEEN
 
 ROLLNO : 410619104047
 
-EMAIL : yasmeenyas262@gmail.com
+EMAIL : yasmeenyas262@gmail.com.
 
 MOBILE NUMBER : 9361037219
 
