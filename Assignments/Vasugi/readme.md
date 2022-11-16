@@ -14,8 +14,8 @@ DEGREE : Bachelor of Engineering
 
 BRANCH : Computer Science Engineering     
 
-YEAR OF PASSING : 2023                                                                                           
+YEAR OF PASSING : 2023 
 
-COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING      
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING                                                                                                           
 
                                       
