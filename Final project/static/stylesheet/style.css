@@ -1,0 +1,31 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    max-width: 100vw;
+    max-height: 100vh;
+    /* background-color: aqua; */
+}
+.herContainer{
+    margin-left: 0;
+}
+.errMsg{
+    color: red !important;
+}
+
+.jum{
+    background-color: aqua !important;
+}
+
+.prof{
+    max-width: 40% !important;
+    margin-top: 8%;
+    margin-left: 30%;
+    
+    
+}
+
+.success{
+    color: green;
+    margin-left: 35%;
+}
